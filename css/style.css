@@ -1,0 +1,26 @@
+.sideColumn{
+	border-left: 1px solid #1AD6FD;
+}
+
+h1, h4{
+	color: #1AD6FD;
+}
+
+.date{
+	color: #007AFF;
+}
+
+.col-md-3{
+	text-align: right;
+}
+
+.aboutMe{
+	border-left: 1px dashed #0BD318;
+	height: 100%;
+	text-align: center;
+}
+
+.aboutMe p{
+	text-align: left;
+	
+}
