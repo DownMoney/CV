@@ -6,12 +6,16 @@ Michael Lotkowski
 
 #### Address
 6/4 Warrender Park Terrace
+
 Edinburgh
+
 EH9 1JA
+
 Mobile: 07946323985
 
 #### Online
 GitHub: [https://github.com/DownMoney](https://github.com/DownMoney)
+
 Email: [michael@lotkowscy.co.uk](mailto:michael@lotkowscy.co.uk)
 						
 					
